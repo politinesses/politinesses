@@ -6,22 +6,15 @@
 
 <br>
 
-### Technologies
-
-![Luau](https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-
-<br>
-
 ### Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=politinesses&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=politinesses&theme=github_dark" alt="Most used languages" />
 
 <br>
 
 ### Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=politinesses&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=politinesses&theme=github_dark" alt="GitHub contribution activity" />
 
 <br>
 
